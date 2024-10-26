@@ -1,0 +1,65 @@
+/* Define o estilo para o corpo da página */
+body {
+    background-color: #000; 
+    color: #FFF; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+/* Define o estilo para a lista não ordenada (ul) */
+ul {
+    display: flex; 
+    justify-content: space-between; 
+    list-style-type: none; 
+    align-items: center; 
+    padding: 20px; 
+}
+/* Define o estilo para links */
+a {
+    color: #FFF;
+    text-decoration: none; 
+}
+/* Define o estilo para a imagem dentro do elemento header */
+header img {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    border: 5px solid rgb(64, 172, 64); 
+}
+/* Define uma classe para alinhar elementos ao centro */
+.center {
+    text-align: center; 
+}
+/* Define o estilo para o cabeçalho (h1) */
+h1 {
+    color: rgb(64, 172, 64); 
+}
+/* Define o estilo para a imagem dentro do elemento footer */
+footer img {
+    width: 50px; 
+    height: 50px;   
+}
+/* Define o estilo para o rodapé */
+footer {
+    display: flex; 
+    justify-content: center;
+}
+/* Define o estilo para links dentro do rodapé */
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+/* Define o estilo para o parágrafo dentro do rodapé */
+footer p {
+    margin-top: 2px;
+}
+/* Define o estilo para o conteúdo dentro do container */
+.container {
+    padding: 0px 50px;
+}
+/* Define o estilo para as seções */
+section {
+    text-align: justify;
+}
+/* Define o estilo para links dentro do elemento nav quando passam o mouse sobre eles */
+nav a:hover {
+    color: rgb(64, 172, 64);
+}

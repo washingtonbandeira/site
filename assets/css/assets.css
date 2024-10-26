@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: white;
+    margin-right: 3%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #18a718;
+    }
+
+.fonte {
+    font-size: 1rem;
+}
+
+main {
+    text-align: justify;
+    font-size: 1.4rem;   
+}

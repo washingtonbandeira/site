@@ -1,0 +1,44 @@
+body, main {   
+    height: 100%;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;   
+}
+
+body {
+    background-image: url('../Imagens/bitcoin.jpg');
+    background-size: cover;
+}
+
+footer { 
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 25px;
+    color: #b3811f;    
+}
+
+nav {
+    text-align: right;
+    padding: 5px;
+    padding-right: 25px;
+}
+
+a {
+    color: #b3811f;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-shadow: 0.3px 0.3px 1px #b3811f;
+}
+
+
+
+
+
+
+
+
